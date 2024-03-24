@@ -16,9 +16,9 @@ https://usepopcorn-ianmontesclaros.netlify.app/
 
 4. Movie Ratings: Users can rate movies on a scale of 1 to 10 stars.
 
-# Architecture and Technologies
+# Built with
 
-· useEffect
-· data fetching
-· custom hooks
-· OMDb API
+* useEffect
+* data fetching
+* custom hooks
+* OMDb API
