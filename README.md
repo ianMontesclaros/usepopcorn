@@ -10,7 +10,7 @@ https://usepopcorn-ianmontesclaros.netlify.app/
 
 1. Search Movies: Users can search for movies by title using the search bar.
 
-2. Open Movie Database: The OMDb API, or Open Movie Database API, is a free and publicly accessible API that provides a vast collection of information about movies. The API also provides comprehensive details about individual titles, including plot summaries, release dates, runtime, genres, languages, countries, awards, and IMDb ratings.
+2. Open Movie Database: The OMDb API, or Open Movie Database API, is a free and publicly accessible API that provides a vast collection of information about movies. The API provides comprehensive details about individual titles, including plot summaries, release dates, runtime, genres, languages, countries, awards, and IMDb ratings.
 
 3. Movies List: Users can add movies to a list they have watched and rated.
 
