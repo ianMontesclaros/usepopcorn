@@ -6,7 +6,7 @@ Usepopcorn is a react web app for movie enthusiasts. Users can search, rate, and
 
 # Features
 
-1. Users can search for movies by title.
+1. Search Movies: Users can search for movies by title using the search bar.
 
 2. Open Movie Database: The OMDb API, or Open Movie Database API, is a free and publicly accessible API that provides a vast collection of information about movies. The API also provides comprehensive details about individual titles, including plot summaries, release dates, runtime, genres, languages, countries, awards, and IMDb ratings.
 
