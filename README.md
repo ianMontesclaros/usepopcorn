@@ -2,7 +2,7 @@
 
 # Usepopcorn
 
-Usepopcorn is a react web app for movie enthusiasts. Users can search, rate, and add movies to a list.
+Usepopcorn is a ReactJS app for movie enthusiasts. Users can search, rate, and add movies to a list.
 
 # Features
 
