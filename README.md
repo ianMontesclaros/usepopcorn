@@ -15,3 +15,10 @@ https://usepopcorn-ianmontesclaros.netlify.app/
 3. Movies List: Users can add movies to a list they have watched and rated.
 
 4. Movie Ratings: Users can rate movies on a scale of 1 to 10 stars.
+
+# Architecture and Technologies
+
+· useEffect
+· data fetching
+· custom hooks
+· OMDb API
