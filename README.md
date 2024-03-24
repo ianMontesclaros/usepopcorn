@@ -4,6 +4,8 @@
 
 Usepopcorn is a ReactJS app for movie enthusiasts. Users can search, rate, and add movies to a list.
 
+https://usepopcorn-ianmontesclaros.netlify.app/
+
 # Features
 
 1. Search Movies: Users can search for movies by title using the search bar.
